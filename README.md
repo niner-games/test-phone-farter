@@ -11,12 +11,11 @@
 
 <h1 align="center">King Farthur. Riders of the Lost Fart</h1><br />
 
-A short and weird story of King Farthur and all his farts... And a test of building mobile app in one of the hybrid frameworks.
+A short and weird story of King Farthur in his ride after lost fart... And a test of building mobile app (mobile visual
+novel) in one of the hybrid frameworks.
 
 WORK IN PROGRESS. STOP HERE. THE REMAINING PART OF THIS TEXT IS A GARBAGE GENERATED OUT OF OUR TEMPLATE REPOSITORY AND 
 HAS NOTHING TO DO WITH THE SUBJECT (KING FARTHUR AND HIS LOST FART).
-
-
 
 - [Tools](#tools)
     * [Passwords and keys](#passwords-and-keys)
